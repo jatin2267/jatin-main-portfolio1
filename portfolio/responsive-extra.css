@@ -1,0 +1,1 @@
+@media (max-width: 768px) { .portfolio-carousel-reverse .portfolio-item { max-width: 100%; } } @media (max-width: 480px) { .portfolio-carousel-reverse .portfolio-carousel { flex-direction: column; } }
